@@ -1,0 +1,4 @@
+config.php
+*.sql
+.env
+/vendor/
